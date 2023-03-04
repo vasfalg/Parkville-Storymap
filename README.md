@@ -1,8 +1,8 @@
 # Parkville's Development Over Time
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://vasfalg.github.io/Parkville-Storymap/#1
-- Google Sheets template https://docs.google.com/spreadsheets/d/1ekjS7Yly7tuN3hIBqtg28tRi3PO_4zNKPToONHhKhcI/edit?usp=sharing
+- Google Sheet https://docs.google.com/spreadsheets/d/1XqvfTQBp9U8udaWkJF5Ij7jxv6dtYMp51VJANlzcU4k/edit?usp=sharing
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
